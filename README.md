@@ -9,6 +9,20 @@
     archivePrefix={arXiv},
     primaryClass={cs.SY}
 }
+
+## Notes:
+### Since this was ported to a standalone repository, the path in the notebook needs to be adjusted from:
+sys.path.append('../../../RL_lib/Agents')   
+sys.path.append('../../../RL_lib/Policies/PPO')   
+sys.path.append('../../../RL_lib/Policies/Common')   
+sys.path.append('../../../RL_lib/Utils')   
+
+### To:
+sys.path.append('../../RL_lib/Agents')   
+sys.path.append('../../RL_lib/Policies/PPO')   
+sys.path.append('../../RL_lib/Policies/Common')   
+sys.path.append('../../RL_lib/Utils')   
+
 ## virtual environment should include:
 ### Pytorch 
 ### Python 3.5
