@@ -1,12 +1,14 @@
 # Code for  "[Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets](https://arxiv.org/abs/1906.02113)"
 # If you use this code in your research, please cite:
-@article{gaudet2019adaptive,
-  title={Adaptive Guidance and Integrated Navigation with Reinforcement Meta-Learning},
-  author={Gaudet, Brian and Linares, Richard and Furfaro, Roberto},
-  journal={arXiv preprint arXiv:1904.09865},
-  year={2019}
-}
 
+@article{gaudet2019reinforcement,
+    title={Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets},
+    author={Brian Gaudet and Roberto Furfaro and Richard Linares},
+    year={2019},
+    eprint={1906.02113},
+    archivePrefix={arXiv},
+    primaryClass={cs.SY}
+}
 ## virtual environment should include:
 ### Pytorch 
 ### Python 3.5
