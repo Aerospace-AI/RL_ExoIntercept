@@ -1,14 +1,16 @@
 # Code for  "[Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets](https://arxiv.org/abs/1906.02113)"
 # If you use this code in your research, please cite:
 
-@article{gaudet2019reinforcement,
-    title={Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets},
-    author={Brian Gaudet and Roberto Furfaro and Richard Linares},
-    year={2019},
-    eprint={1906.02113},
-    archivePrefix={arXiv},
-    primaryClass={cs.SY}
+@article{gaudet2020reinforcement,
+  title={Reinforcement learning for angle-only intercept guidance of maneuvering targets},
+  author={Gaudet, Brian and Furfaro, Roberto and Linares, Richard},
+  journal={Aerospace Science and Technology},
+  volume={99},
+  pages={105746},
+  year={2020},
+  publisher={Elsevier}
 }
+
 
 ## Notes:
 ### Since this was ported to a standalone repository, the path in the notebook needs to be adjusted from:
