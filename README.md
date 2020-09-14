@@ -1,4 +1,4 @@
-# Code for  "[Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets](https://arxiv.org/abs/1906.02113)"
+# Code for  "[Reinforcement Learning for Angle-Only Intercept Guidance of Maneuvering Targets](https://doi.org/10.1016/j.ast.2020.105746)"
 # If you use this code in your research, please cite:
 
 @article{gaudet2020reinforcement,
